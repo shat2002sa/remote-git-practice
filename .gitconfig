@@ -1,0 +1,7 @@
+[user]
+	name = Shakir Al Mujhad
+	email = shat2002sa@gmail.com
+[init]
+	defaultBranch = main
+[core]
+	editor = nano
